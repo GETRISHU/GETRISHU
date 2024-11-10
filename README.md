@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishi ranjan</h1>
 <h3 align="center">A passionate frontend developerper from India</h3>
 
-<img align="left" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/db31675b-e9e8-4c2c-9d1a-12f9571d811d)
-">
+<img align="left" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/4b442857-9dc4-4e11-9fe0-6746c1fed54a)">
 
 
 - 🌱 I’m currently learning **Frappe , Python , Erpnext ,**
