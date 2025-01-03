@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rishi ranjan</h1>
 <h3 align="center">A passionate frontend developerper from India</h3>
 
-<img align="left" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/4b442857-9dc4-4e11-9fe0-6746c1fed54a)">
+![image](https://github.com/user-attachments/assets/8cd81d67-6d6a-41ba-ac2b-6c5b269b1c12)
 
 
-- 🌱 I’m currently learning **Frappe , Python , Erpnext ,**
+
+- 🌱 I’m currently learning ** Frappe , Python , MYSQL  **
 
 - 🤝 I’m looking for help with **Exploring Modern Technology.**
 
@@ -12,7 +13,7 @@
 
 - 📫 How to reach me **itzrishi102@gmail.com**
 
-- ⚡ Fun fact **I'm an Introvert.**
+- ⚡  **Coder, Creator, Dreamer! ✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
