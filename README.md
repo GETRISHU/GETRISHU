@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishi ranjan</h1>
-<h3 align="center">A passionate frontend developerper from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 ![image](https://github.com/user-attachments/assets/8cd81d67-6d6a-41ba-ac2b-6c5b269b1c12)
 
