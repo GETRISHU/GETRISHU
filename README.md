@@ -5,13 +5,13 @@
 
 
 
-- 🌱 I’m currently learning ** Frappe , Python , MYSQL  **
+- 🌱 I’m currently learning ** Django , Python , MYSQL ,Angular  **
 
 - 🤝 I’m looking for help with **Exploring Modern Technology.**
 
 - 💬 Ask me about **Tech-related Stuff.**
 
-- 📫 How to reach me **itzrishi102@gmail.com**
+- 📫 How to reach me **devwizardrishi@gmail.com**
 
 - ⚡  **Coder, Creator, Dreamer! ✨**
 
