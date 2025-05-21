@@ -13,7 +13,7 @@
 
 - 💻 Passionate about **Web Development, Open Source, and Problem Solving**
 
-- 📫 How to reach me **devwizardrishi@gmail.com <br/> - itzrisho102@gmail.com**
+- 📫 How to reach me **devwizardrishi@gmail.com <br/> - itzrishi102@gmail.com**
 
 - ⚡  **Coder, Creator, Dreamer! ✨**
 
